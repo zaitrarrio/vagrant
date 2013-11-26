@@ -12,7 +12,7 @@ Vagrant provides the tools to create and configure lightweight, reproducible, an
 virtual environments. For more information, see the part of the getting started guide
 on “[Why Vagrant?](http://vagrantup.com/docs/getting-started/index.html)”
 
-## Quick Start
+## Quick Start 
 
 First, make sure your development machine has [VirtualBox](http://www.virtualbox.org)
 installed. The setup from that point forward is very easy, since Vagrant is simply
